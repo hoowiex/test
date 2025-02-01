@@ -20,4 +20,6 @@ int main()
 
 	WordsInStringReverse(secondString);
 	std::cout << "Reversed words in second string: " << secondString << std::endl;
+
+	std::cout << "jklhhjgfhf";
 }
